@@ -1,0 +1,31 @@
+_repo: '---_26873'
+_version: 0.1.0
+alternative_title:
+- Longchuan ci
+- 龙川词
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chen, Liang
+    alias: 陳亮
+    birthdate: 1143
+    deathdate: 1194
+    gutenberg_agent_id: '32289'
+    url: http://www.gutenberg.org/2009/agents/32289
+    wikipedia: http://zh.wikipedia.org/wiki/%E9%99%88%E4%BA%AE
+description: ''
+gutenberg_issued: '2008-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26873'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Ci (Chinese poetry)'
+title: 龍川詞
+url: http://www.gutenberg.org/ebooks/26873
